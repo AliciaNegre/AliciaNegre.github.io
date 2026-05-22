@@ -1,11 +1,11 @@
 # ============================================================
 # STEP 1: Your Identity (required)
 # ============================================================
-name: "Richard Feynman"
-title: "Professor of Physics"
-institution: "California Institute of Technology"
-email: richard@university.edu
-photo: headshot.jpg  # place your photo in images/
+name: "Alicia Negre"
+title: "PhD student"
+institution: "CERMICS, École des ponts et chaussées, Institut Polytechnique de Paris - Inria"
+email: alicia.negre@enpc.fr
+photo: photo_Alicia.png # place your photo in images/
 
 # ============================================================
 # STEP 2: Your Links (optional -- delete any you don't use)
@@ -23,10 +23,10 @@ links:
 # STEP 3: Site Settings
 # ============================================================
 accent_color: "#1a7a6d"      # theme color for links and buttons
-dark_mode: true              # show dark mode toggle in navbar
-description: "Academic webpage of Dr. Richard Feynman"
+dark_mode: false             # show dark mode toggle in navbar
+description: "website of Alicia Negre"
 baseurl: ""
-url: ""
+url: "https://alicianegre.github.io"
 
 # Google Analytics — paste your GA4 measurement ID, or leave blank
 analytics:
