@@ -9,31 +9,15 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Electrodynamics</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Path Integrals</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Superfluidity</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Parton Model</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Computing</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Nanotechnology</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Embedding</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Density-Matrix Embedding Theory</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Chemistry</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Strongly Correlated Systems</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Riemannian Optimization</a>
 </div>
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-
-<div class="callout callout-success" markdown="0">
-<div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Nobel Prize in Physics, 1965</div>
-<p>Awarded the Nobel Prize jointly with Julian Schwinger and Shin'ichiro Tomonaga for fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles.</p>
-</div>
-
-<div class="banner-frame" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" alt="Feynman diagrams" loading="lazy">
-<div class="banner-caption">Examples of Feynman diagrams. Feynman R., <em>The theory of positrons. Phys. Rev.</em> (1949)</div>
-</div>
+I am a PhD student in the last year of my thesis at [CERMICS](https://cermics-lab.enpc.fr/), École des Ponts ParisTech, under the supervision of [Eric Cancès](https://cermics.enpc.fr/~cances/) and [Thomas Ayral](https://thomasayral.github.io/). My research focuses on quantum embedding methods for the study of strongly correlated quantum systems, combining rigorous mathematical analysis with numerical methods.
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+I work on developing and analyzing quantum embedding methods — in particular Density-Matrix Embedding Theory (DMET) — which enable the simulation of large, strongly correlated quantum systems by decomposing them into smaller, computationally tractable fragments. My work spans both the mathematical foundations and the numerical algorithms underlying these methods, including optimization problems on the Grassmann manifold that arise naturally in bath orbital construction.
