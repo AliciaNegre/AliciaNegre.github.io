@@ -9,11 +9,11 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Embedding</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Density-Matrix Embedding Theory</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Chemistry</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Strongly Correlated Systems</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Riemannian Optimization</a>
+<a href="{{ site.url }}{{ site.baseurl }}/about#research" class="chip">Quantum Embedding</a>
+<a href="{{ site.url }}{{ site.baseurl }}/about#research" class="chip">Density-Matrix Embedding Theory</a>
+<a href="{{ site.url }}{{ site.baseurl }}/about#research" class="chip">Quantum Chemistry</a>
+<a href="{{ site.url }}{{ site.baseurl }}/about#research" class="chip">Strongly Correlated Systems</a>
+<a href="{{ site.url }}{{ site.baseurl }}/about#research" class="chip">Riemannian Optimization</a>
 </div>
 
 I am a PhD student in the last year of my thesis at [CERMICS](https://cermics-lab.enpc.fr/), École des Ponts ParisTech, under the supervision of [Eric Cancès](https://cermics.enpc.fr/~cances/) and [Thomas Ayral](https://thomasayral.github.io/). My research focuses on quantum embedding methods for the study of strongly correlated quantum systems, combining rigorous mathematical analysis with numerical methods.

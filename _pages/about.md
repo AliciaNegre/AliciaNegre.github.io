@@ -32,6 +32,26 @@ permalink: /about/
 </div>
 </div>
 
+<div class="section-card" id="research">
+<h3>Research</h3>
+<p>My research lies at the interface of applied mathematics and quantum chemistry, with a focus on quantum embedding methods for strongly correlated systems. Click a topic to read more.</p>
+
+<div class="chip-container" markdown="0">
+<button type="button" class="chip" data-toggle-target="topic-dmet">Density-Matrix Embedding Theory</button>
+<button type="button" class="chip" data-toggle-target="topic-grassmann">Grassmann Manifold Optimization</button>
+<button type="button" class="chip" data-toggle-target="topic-scs">Strongly Correlated Quantum Systems</button>
+<button type="button" class="chip" data-toggle-target="topic-esm">Electronic Structure Methods</button>
+</div>
+
+<div class="pub-collapse" id="topic-dmet"><p>Development and mathematical analysis of Density-Matrix Embedding Theory (DMET), a quantum embedding method that decomposes large strongly correlated quantum systems into smaller fragment problems coupled to a bath. My work introduces a generalized DMET framework that relaxes conventional constraints and allows for more flexible bath space construction.</p></div>
+
+<div class="pub-collapse" id="topic-grassmann"><p>Analysis of the mathematical and numerical structure of optimization problems over the Grassmann manifold arising in quantum embedding methods. This includes identifying conditions under which a non-convex quadratic objective admits a globally optimal solution via a convex relaxation, and designing efficient Riemannian optimization and SCF algorithms.</p></div>
+
+<div class="pub-collapse" id="topic-scs"><p>Study of quantum systems where electron-electron interactions cannot be treated perturbatively. Quantum embedding methods provide a divide-and-conquer strategy to make these problems computationally tractable while retaining the essential physics of strong correlations.</p></div>
+
+<div class="pub-collapse" id="topic-esm"><p>Development of rigorous mathematical frameworks for electronic structure calculations, combining tools from functional analysis, optimization on manifolds, and numerical linear algebra to design and analyze ab initio methods in quantum chemistry.</p></div>
+</div>
+
 <div class="section-card">
 <h3>Media</h3>
 <ul>
