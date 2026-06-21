@@ -20,4 +20,4 @@ I am a PhD student in the last year of my thesis at [CERMICS](https://cermics-la
 
 ### About me
 
-I work on developing and analyzing quantum embedding methods — in particular Density-Matrix Embedding Theory (DMET) — which enable the simulation of large, strongly correlated quantum systems by decomposing them into smaller, computationally tractable fragments. My work spans both the mathematical foundations and the numerical algorithms underlying these methods, including optimization problems on the Grassmann manifold that arise naturally in bath orbital construction.
+I work on developing and analyzing quantum embedding methods — in particular Density-Matrix Embedding Theory (DMET) — which enable the simulation of large, strongly correlated quantum systems by decomposing them into smaller, computationally tractable fragments. My work spans both the mathematical foundations and the numerical algorithms underlying these methods, including optimization problems on the Grassmann manifold that arise naturally in bath orbital construction. I am also interested in quantum computing methods for condensed matter and quantum chemistry.
