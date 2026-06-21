@@ -37,3 +37,35 @@
     }
   }
 }
+
+.cv-entry {
+  margin-bottom: var(--space-6);
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.cv-entry-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--space-2);
+}
+
+.cv-entry-title {
+  font-weight: 600;
+}
+
+.cv-entry-date {
+  color: var(--text-secondary);
+  font-size: 0.9em;
+  white-space: nowrap;
+}
+
+.cv-entry-subtitle {
+  font-style: italic;
+  color: var(--text-secondary);
+  margin: 0 0 var(--space-2);
+}

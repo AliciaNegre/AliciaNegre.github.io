@@ -18,6 +18,7 @@ permalink: /about/
 {% if site.links.cv and site.links.cv != "" %}<a href="{{ site.url }}{{ site.baseurl }}/{{ site.links.cv }}" class="icon-link" title="CV"><i class="ai ai-cv"></i></a>{% endif %}
 {% if site.links.google_scholar and site.links.google_scholar != "" %}<a href="{{ site.links.google_scholar }}" class="icon-link" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>{% endif %}
 {% if site.links.github and site.links.github != "" %}<a href="{{ site.links.github }}" class="icon-link" title="GitHub"><i class="fa-brands fa-github"></i></a>{% endif %}
+{% if site.links.linkedin and site.links.linkedin != "" %}<a href="{{ site.links.linkedin }}" class="icon-link" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>{% endif %}
 {% if site.links.researchgate and site.links.researchgate != "" %}<a href="{{ site.links.researchgate }}" class="icon-link" title="ResearchGate"><i class="ai ai-researchgate"></i></a>{% endif %}
 </div>
 {% if site.data.pi[0].education %}
@@ -29,6 +30,13 @@ permalink: /about/
 {% endif %}
 </div>
 </div>
+</div>
+
+<div class="section-card">
+<h3>Media</h3>
+<ul>
+<li><a href="https://www.isae-supaero.fr/isae-supaero-6/notre-newsroom/toutes-nos-actualites/zoom-sur-la-physique-quantique-a-lisae-supaero-un-parcours-etudiant/" target="_blank">Zoom sur la physique quantique à l'ISAE-SUPAERO : un parcours étudiant</a></li>
+</ul>
 </div>
 
 {% if site.data.grants %}
