@@ -13,6 +13,7 @@ permalink: /about/
 <div>
 <h3 class="pi-name">{{ site.name }}</h3>
 <p style="font-style: italic; color: var(--text-secondary);">{{ site.title }}, {{ site.institution }}</p>
+<p>Interested in quantum computing methods for condensed matter and quantum chemistry.</p>
 <div class="pi-links">
 {% if site.email %}<a href="mailto:{{ site.email }}" class="icon-link" title="Email"><i class="fa-solid fa-envelope"></i></a>{% endif %}
 {% if site.links.cv and site.links.cv != "" %}<a href="{{ site.url }}{{ site.baseurl }}/{{ site.links.cv }}" class="icon-link" title="CV"><i class="ai ai-cv"></i></a>{% endif %}
@@ -36,6 +37,20 @@ permalink: /about/
 <h3>Media</h3>
 <ul>
 <li><a href="https://www.isae-supaero.fr/isae-supaero-6/notre-newsroom/toutes-nos-actualites/zoom-sur-la-physique-quantique-a-lisae-supaero-un-parcours-etudiant/" target="_blank">Zoom sur la physique quantique à l'ISAE-SUPAERO : un parcours étudiant</a></li>
+</ul>
+</div>
+
+<div class="section-card">
+<h3>Outreach</h3>
+<ul>
+<li>Science outreach talks on astrophysics and quantum mechanics for middle and high school students (collège et lycée)</li>
+</ul>
+</div>
+
+<div class="section-card">
+<h3>Service</h3>
+<ul>
+<li>Member of the Finance Committee, <a href="https://cjcma2026.sciencesconf.org" target="_blank">CJCMA 2026</a> (Congrès des Jeunes Chercheur·e·s en Mathématiques Appliquées), École des Ponts et Chaussées, Champs-sur-Marne, March 2&#8211;4, 2026</li>
 </ul>
 </div>
 

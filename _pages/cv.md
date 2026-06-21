@@ -45,7 +45,7 @@ permalink: /cv/
 <span class="cv-entry-title">Université Paul Sabatier, Toulouse</span>
 <span class="cv-entry-date">Sept 2022 &#8211; March 2023</span>
 </div>
-<p class="cv-entry-subtitle">M2RI &#8211; Master 2 de Recherche et d'Innovation</p>
+<p class="cv-entry-subtitle">Master 2 of Mathematics for Research and Innovation &#8211; M2RI</p>
 <ul>
 <li>Non linear conservation laws, introduction to spectral theory, hyperbolic initial boundary value problems and numerical schemes</li>
 </ul>
