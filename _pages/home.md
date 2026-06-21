@@ -16,7 +16,7 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/about#research" class="chip">Riemannian Optimization</a>
 </div>
 
-I am a PhD student in the last year of my thesis at [CERMICS](https://cermics-lab.enpc.fr/), École des Ponts ParisTech, under the supervision of [Eric Cancès](https://cermics.enpc.fr/~cances/) and [Thomas Ayral](https://thomasayral.github.io/). My research focuses on quantum embedding methods for the study of strongly correlated quantum systems, combining rigorous mathematical analysis with numerical methods.
+I am a PhD student in the last year of my thesis at [CERMICS](https://cermics-lab.enpc.fr/), École nationale des ponts et chaussées, institut polytechnique, and [Inria (Matherials teams)](https://team.inria.fr/matherials/), under the supervision of [Eric Cancès](https://cermics.enpc.fr/~cances/) and [Thomas Ayral](https://thomasayral.github.io/). My research focuses on quantum embedding methods for the study of strongly correlated quantum systems, combining rigorous mathematical analysis with numerical methods.
 
 ### About me
 

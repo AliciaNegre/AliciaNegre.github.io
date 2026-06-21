@@ -60,8 +60,9 @@ permalink: /about/
 </div>
 
 <div class="section-card">
-<h3>Service</h3>
+<h3>Academic Service</h3>
 <ul>
+<li>Representative of the PhD students and postdocs of CERMICS (2024&#8211;2025)</li>
 <li>Member of the Finance Committee, <a href="https://cjcma2026.sciencesconf.org" target="_blank">CJCMA 2026</a> (Congrès des Jeunes Chercheur·e·s en Mathématiques Appliquées), École des Ponts et Chaussées, Champs-sur-Marne, March 2&#8211;4, 2026</li>
 </ul>
 </div>
